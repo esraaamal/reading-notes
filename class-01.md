@@ -87,57 +87,51 @@ In order to help web page
 authors move to this new syntax,
 two main flavors of XHTML 1.0
 were created:
-● Strict XHTML 1.0, where
+- Strict XHTML 1.0, where
 authors had to follow the rules
 to the letter
-● Transitional XHTML 1.0,
+- Transitional XHTML 1.0,
 where authors could still use
 presentational elements (such
 as <center> and <font>).
 ____________________
-HTML5 
+# HTML5 
 In html5 intrduce some element do not need to close tag also this version interduce new eelement and attribute
 Even the HTML5 was not completed but 
 The major browser started implemented many of new features 
 Because there have been several versions of HTML
-, each web page should begin with a DOCTYPE declaration to tell
+ each web page should begin with a DOCTYPE declaration to tell
  a browser which version of HTML the page is using
 ________________________
 We use  <!DOCTYPE html> to Html5 version
 _______________________________
 Comment in Html <!-- -->
 The comment is not visible for the user only for the coder …
-comments will make
- it much easier to understand.the code
+comments will make it much easier to understand.the code
 ___________________
 
 ID Attribute: every element can carry the id attribute
-This id used to uniquely identify the element from other elements on the page a;so it allows you to style the element differently than any other instance ..Ex:
-<p id="pullquote">I love coding </p>
+This id used to uniquely identify the element from other elements on the page a;so it allows you to style the element differently than any other instance 
 _____________________________
 Class Attribute: every element can carry the class attribute
 Class attribute in any element can can share the same value
 __________________________
 Hint:using these attribure does not effect the presentation of an element ..it only change their appearance and style 
-______________________
-Block element:
+# Block element:
 Some elements will always appear to start on a new line in the browser window. These are known as block leve elements.
-Example of block element :
-<h1>, <p>, <ul>, and <li>.
-______________________
-
-Inline Elements:
+___________________
+# Inline Elements:
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 Examples of inline elements are
-<a>, <b>, <em>, and <img>.
+
 _________________________
-# Grouping Text & Elements In a Block:
+# Grouping Text  and Elements In a Block:
 <div>
 The <div> element allows you to
 group a set of elements together
 in one block-level box.
-__________________________
-# Grouping Text & Elements Inline
+
+# Grouping Text and Elements Inline
 <span>
 The <span> element acts like an inline equivalent of the <div>
 element. It is used to either:
@@ -236,23 +230,21 @@ treated as one single heading
 _________________________
 Figures:
 <figure> <figcaption>
-  
-
 <figure>
 <img src="images/bok-choi.jpg" alt="Bok Choi" />
 <figcaption>Bok Choi</figcaption>
 </figure>
-_________________________-
+_________________________
 Used to contain any content that is
 referenced from the main flow of
 an article (not just images).
 Examples of usage include:
-● Images
-● Videos
-● Graphs
-● Diagrams
-● Code samples
-● Text that supports the main
+- Images
+- Videos
+- Graphs
+- Diagrams
+- Code samples
+- Text that supports the main
 ___________________________
 The <figure> element should
 also contain a <figcaption>
@@ -264,17 +256,17 @@ __________________________
 Every website should be designed for the
 target audience:
 Target Audience: individuals
-● What is the age range of your target audience?
-● Will your site appeal to more women or men? What is the mix?
-● Which country do your visitors live in?
-● Do they live in urban or rural areas?
-● What is the average income of visitors?
-● What level of education do they have?
-● What is their marital or family status?
-● What is their occupation?
-● How many hours do they work per week?
-● How often do they use the web?
-● What kind of device do they use to access the web?
+- What is the age range of your target audience?
+- Will your site appeal to more women or men? What is the mix?
+- Which country do your visitors live in?
+- Do they live in urban or rural areas?
+- What is the average income of visitors?
+- What level of education do they have?
+- What is their marital or family status?
+- What is their occupation?
+- How many hours do they work per week?
+- How often do they use the web?
+- What kind of device do they use to access the web?
 
 ____________________________
 # Java script:
