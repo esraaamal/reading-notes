@@ -15,7 +15,7 @@ class-08|More CSS Layoutt/[link]()|
 class-09|Forms and Eventst/[link]()|
 class-010|JS Debugging/[link]()|
 class-011|Assorted Topics/[link]()|
-class-012|nDocs for the HTML <canvas> Element & Chart.js/[link]()|
+class-012|nDocs for the HTML canvas Element & Chart js/[link]()|
 class-013|Local Storage/[link]()|
 class-014a|CSS Transforms, Transitions, and Animations/[link]()|
 class-014b|What Google Learned About Teams/[link](#)
