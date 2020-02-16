@@ -78,7 +78,7 @@ change was that XHTML works
 seamlessly with other programs
 that are written to create and
 process XML documents.
-______________________
+
 In order to help web page
 authors move to this new syntax,
 two main flavors of XHTML 1.0
@@ -89,8 +89,8 @@ to the letter
 - Transitional XHTML 1.0,
 where authors could still use
 presentational elements (such
-as <center> and <font>).
-____________________
+as center and font).
+
 # HTML5 
 In html5 intrduce some element do not need to close tag also this version interduce new eelement and attribute
 Even the HTML5 was not completed but 
@@ -192,19 +192,20 @@ it might contain links to other
 sections of the site, a list of
 recent posts, a search box, or
 recent tweets by the author
-_____________________________
+
+
 <section> element
 groups related items together,
 it may contain several distinct
 <article> elements that have a
 common theme or purpose.
-______________________
+
 if you have a
 page with a long article, the
 <section> element can be
 used to split the article up into
 separate sections.
-______________________________
+
 
 # The section element should
 not be used as a wrapper for
@@ -214,7 +215,7 @@ piece of content(
  If you want a
 containing element for the entire
 page, that job is still best left to the div element.
-__________________________
+
 
 # Heading Groups: hgroup
 The purpose of the hgroup
@@ -222,7 +223,7 @@ element is to group together a
 set of one or more h1 through
 h6 elements so that they are
 treated as one single heading
-_________________________
+
 
 # Figures:
 Used to contain any content that is
@@ -235,14 +236,13 @@ Examples of usage include:
 - Diagrams
 - Code samples
 - Text that supports the main
-___________________________
 
 **The figure element should
 also contain a figcaption
 element which provides a text
 decription for the content of
 the figure element
-__________________________
+
 
 # Ch18:
 **Every website should be designed for the
@@ -259,7 +259,7 @@ Target Audience: individuals**
 - How often do they use the web?
 - What kind of device do they use to access the web?
 
-____________________________
+
 
 # Java script:
 What mean of script 
