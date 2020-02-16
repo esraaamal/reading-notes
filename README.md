@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-***this website about all current and future classes in this course***
+***this website about all*** **current and future** ***classes in this course***
 
 read#| read title /link|
 -----|------------|
