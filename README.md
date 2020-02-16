@@ -4,7 +4,11 @@
 
 read#| read title /link|
 -----|------------|
+<<<<<<< HEAD
 class-01|Introductory HTML and JavaScript/[link](https://esraaamal.github.io/reading-notes/class-01.md)|
+=======
+class-01|Introductory HTML and JavaScript/[link](https://esraaamal.github.io/reading-notes/class-01)|
+>>>>>>> 6be75ac90805f4105c9c18595b2691d0d06d5a01
 class-02|HTML Text, CSS Introduction, and Basic JavaScript Instructions/[link]()|
 class-03|HTML Lists, CSS Boxes, JS Control Flow/[link]()|
 class-04|HTML Links, CSS Layout, JS Functions[link]()|
