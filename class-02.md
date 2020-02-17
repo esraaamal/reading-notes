@@ -139,4 +139,10 @@ Expressions rely on things called operators; they allow programmers to create a 
 -	LOGICAL OPERATORS
 ![..](https://1.bp.blogspot.com/-N4BTD_uvqPg/XJh7TKNaH3I/AAAAAAAACI4/X73EKI50S-QGxynBSiT5i3kWjJS0vbCIgCLcBGAs/s1600/Arithmetic%2Boperators.png)
 
+### SWITCH STATEMENTS
+A switch statement starts with a variable called the switch value.
+Each case indicates a possible value for this variable and the code that 
+should run if the variable matches that value.
+
+![..]( https://media.geeksforgeeks.org/wp-content/uploads/switch.png)
 
