@@ -78,3 +78,19 @@ The margin property controls the gap between boxes. Its value is commonly given 
 ### Centering Content
 to center  a box on a page you can set the left-margin and right –margin
 also set the width for the box..
+
+#### A switch statement
+ starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+ the purpose of the switch statement is to present the user with a different message depending on which level they are at
+
+
+### SHORT CIRCUIT VALUES
+They short-circuit (stop) as soon as they have a result - but they 
+return the value that stopped
+
+### loops
+the most three common loop is 
+-for loop(need to run a code  specific number of times
+-while loop(use this loop if we don’t know how many
+ times we must run the code )
+-do while loop 
