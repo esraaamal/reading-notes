@@ -29,7 +29,7 @@
 
 CSS3 introduces an entirely new and intuitive way to specify colors using hue, saturation, and lightness values.
 
-![..]( https://img.favpng.com/19/22/14/
+![..]( https://img.favpng.com/19/22/14/tints-and-shades-hue-colorfulness-color-wheel-png-favpng-CpSZCQZZT03Xbrw1nDhfxGwdX.jpg)
 
 
 
