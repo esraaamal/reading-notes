@@ -7,8 +7,8 @@ read#| read title /link|
 class-01|ntroductory HTML and JavaScript and JavaScript/[link](https://esraaamal.github.io/reading-notes/class-01)|
 class-02|HTML Text, CSS Introduction, and Basic JavaScript Instruction [link](https://esraaamal.github.io/reading-notes/class-02)|
 class-03|HTML Lists, CSS Boxes, JS Control Flow/[link](https://esraaamal.github.io/reading-notes/class-03)|
-class-04|HTML Links, CSS Layout, JS Functions[link]()|
-class-05|HTML Images; CSS Color & Text/[link]()|
+class-04|HTML Links, CSS Layout, JS Functions[link](https://esraaamal.github.io/reading-notes/class-04)|
+class-05|HTML Images; CSS Color & Text/[link](https://esraaamal.github.io/reading-notes/class-05)|
 class-06|JS Object Literals; The DOM/[link]()|
 class-07|HTML Tables; JS Constructor Functions/[link]()|
 class-08|More CSS Layoutt/[link]()|
