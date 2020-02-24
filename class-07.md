@@ -33,7 +33,7 @@ Object created using literal or constructor notation…
 
 **we Create many object constructor notaion because sometimes we want several object to represent similar things**
 So object constructor can use a function as atemplate for creating object
-![..](img/object.png
+![..](img/object.png)
 
 no need to build many objects to the similar type of
  description so we create a single object called a template
