@@ -11,10 +11,10 @@ class-04|HTML Links, CSS Layout, JS Functions[link](https://esraaamal.github.io/
 class-05|HTML Images; CSS Color & Text/[link](https://esraaamal.github.io/reading-notes/class-05)|
 class-06|JS Object Literals; The DOM/[link](https://esraaamal.github.io/reading-notes/class-06)|
 class-07|HTML Tables; JS Constructor Functions/[link](https://esraaamal.github.io/reading-notes/class-07)|
-class-08|More CSS Layoutt/[link]()|
-class-09|Forms and Eventst/[link]()|
-class-010|JS Debugging/[link]()|
-class-011|Assorted Topics/[link]()|
+class-08|More CSS Layoutt/[link](https://esraaamal.github.io/reading-notes/class-08)|
+class-09|Forms and Eventst/[link](https://esraaamal.github.io/reading-notes/class-09)|
+class-010|JS Debugging/[link](https://esraaamal.github.io/reading-notes/class-10)|
+class-011|Assorted Topics/[link](https://esraaamal.github.io/reading-notes/class-11)|
 class-012|nDocs for the HTML canvas Element & Chart js/[link]()|
 class-013|Local Storage/[link]()|
 class-014a|CSS Transforms, Transitions, and Animations/[link]()|
