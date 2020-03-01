@@ -40,6 +40,19 @@ up and down the page.
 ### only When an image is not being repeated
 we can use the background-position
 
+## Search Engine Optimization (SEO)
+*Search engine optimization (or SEO) is the practice of trying to help your site* *appear nearer the top of search engine results when people look for the topics*
+*that your website covers.*
 
+- On-Page Techniques
+- Off-Page Techniques
+
+in **On-Page Techniques** seven key places where keywords :
+- Page Title
+-  URL / Web Address
+-  Headings
+- Text
+- Link Text
+-  Image Alt Text
 
 
