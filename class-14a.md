@@ -28,3 +28,12 @@ When transitioning multiple properties, you can identify multiple timing functio
   - transition-duration: .2s, 1s;
   - transition-timing-function: linear, ease-in;
 
+
+### Transition Delay
+  The delay sets a time value, seconds or milliseconds, that determines how long a transition should be stalled before executing
+
+  button:active {
+  transform: translateY(3px);
+} this command make the button move
+
+
