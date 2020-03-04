@@ -10,6 +10,6 @@ The **canvas** element differs from an **img** tag in that, like for **video**, 
 ## Drawing paths
 
 When the current path is empty, such as immediately after calling beginPath(), or on a newly created canvas, the first path construction command is always treated as a moveTo(), regardless of what it actually is. For that reason, you will almost always want to specifically set your starting position after resetting a path.
-
+2
  ##### When you call fill(), any open shapes are closed automatically, so you don't have to call closePath(). This is not the case when you call stroke().
 

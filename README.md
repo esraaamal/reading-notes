@@ -17,8 +17,8 @@ class-010|JS Debugging/[link](https://esraaamal.github.io/reading-notes/class-10
 class-011|Assorted Topics/[link](https://esraaamal.github.io/reading-notes/class-11)|
 class-012|nDocs for the HTML canvas Element & Chart js/[link](https://esraaamal.github.io/reading-notes/class-12)|
 class-013|Local Storage/[link](https://esraaamal.github.io/reading-notes/class-13)|
-class-014a|CSS Transforms, Transitions, and Animations/[link]()|
-class-014b|What Google Learned About Teams/[link](#)
+class-014a|CSS Transforms, Transitions, and Animations/[link](https://esraaamal.github.io/reading-notes/class-14a)|
+class-014b|What Google Learned About Teams/[link](https://esraaamal.github.io/reading-notes/class-14b)
 
 
 
